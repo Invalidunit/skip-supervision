@@ -61,7 +61,6 @@ __跳过 iPhone 监督锁__
     rm -rf /var/binpack
     rm -f /var/checkra1n.dmg
     rm -f /var/dropbear_rsa_host_key
-    rm -f /var/dropbear_rsa_host_key
 
 ### 若后续想越狱
 
